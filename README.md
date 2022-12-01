@@ -1,2 +1,4 @@
-# Hello!
-My username is Junior1Plays, but you can call me Junior Schueller.
+- 👋 Hi, I’m @Junior1Plays
+- 🎲 I’m currently working in betting site
+- 📖 I’m currently learning **API Creation**
+- ✉️ You can send a friend request in Discord: Junior Schueller#1547
