@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Junior1Plays
-- 🎲 I’m currently working in a betting site
+- 🎲 I’m currently working on a custom skins website
 - 📖 I’m currently learning **API Creation**
 - ✉️ You can send a friend request in Discord: Junior Schueller#1547
