@@ -16,7 +16,7 @@
 <a href="https://twitter.com/juniorschu65816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juniorschu65816" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25089318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25089318" height="30" width="40" /></a>
 <a href="https://instagram.com/juniorschueller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juniorschueller" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juniorschueller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juniorschueller" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@juniorschueller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juniorschueller" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
